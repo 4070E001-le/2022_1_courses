@@ -108,6 +108,8 @@
   - 程式設計時不可以再定義成不同的用途，例如保留字不能做為變數名稱。
 
 - [Java關鍵字和保留字及其含義](https://www.itread01.com/content/1548709217.html)
+- 保留關鍵字	goto	是關鍵字，但不能使用
+const	是關鍵字，但不能使用
 
 
 ### [資料型別data type](https://www.w3schools.com/java/java_data_types.asp)
